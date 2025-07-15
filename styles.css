@@ -1,0 +1,15 @@
+.header-img {
+    background-image: url(assets/green-room.png);
+    height: 100vh;
+    width: 50%;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+}
+
+.sub-title {
+    text-transform: uppercase;
+    color: gray;
+}
