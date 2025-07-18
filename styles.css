@@ -20,7 +20,7 @@ body {
 }
 
 .header-img {
-    background-image: url(assets/green_room1\ -\ Copy\ \(4\).jpeg);
+    background-image: url(assets/green_room1.jpeg);
     background-position: center;
     height: 100vh;
     width: 100vh;
@@ -29,7 +29,7 @@ body {
 }
 
 .header-img-2 {
-    background-image: url(assets/green_room2\ -\ Copy\ \(4\).jpg);
+    background-image: url(assets/green_room2.jpg);
     background-position: center;
     height: 100vh;
     width: 100vh;
