@@ -1,12 +1,25 @@
+body {
+    margin: 0;
+}
+
+.header-left {
+    padding: 60px 20px ;
+
+    /* padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px; */
+}
+
 .header-img {
     background-image: url(assets/green_room1\ -\ Copy\ \(4\).jpeg);
+    background-position: center;
     height: 100vh;
-    width: 50%;
+    width: 100vh;
 }
 
 .header {
-    display: flex;
-    flex-direction: row;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 
 .sub-title {
