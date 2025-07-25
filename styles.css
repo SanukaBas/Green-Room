@@ -61,6 +61,11 @@ body {
     line-height: 1.5;
 }
 
+.middle-section {
+    display: flex;
+    background-color: #E8E8EA;
+}
+
 .middle-left {
     background-image: url(assets/green_room7.jpg);
     width: 1800px;
@@ -77,4 +82,28 @@ body {
     background-position: bottom right;
     height: 600px;
     background-size: contain;
+}
+
+.middle-title {
+    text-align: center;
+    font-size: 56px;
+    margin-top: 80px;
+}
+
+.middle-sub-title {
+    text-align: center;
+    color: #635f5f;
+    margin-top: 0;
+    font-size: 34px;
+}
+
+.middle-para {
+    text-align: center;
+    font-size: 25px
+}
+
+.list-img {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
 }
