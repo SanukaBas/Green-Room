@@ -31,16 +31,6 @@
 
 ---
 
-## 🛠 Tech Stack
-
-| Frontend | Backend | Database | Others |
-|---------|---------|----------|--------|
-| HTML5, CSS3, JavaScript | Node.js, Express.js | MongoDB / Firebase | Git, GitHub, REST API |
-
-> 💡 *Easily adaptable to frameworks like React or Vue for future enhancements.*
-
----
-
 ## 📸 Screenshots
 
 > _You can replace the placeholders below with real screenshots from your app!_
