@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sanukabas"><img src="https://img.shields.io/github/followers/sanuka-b?label=Follow&style=social" alt="GitHub Followers"></a>
+  <a href="https://github.com/SanukaBas"><img src="https://img.shields.io/github/followers/sanuka-b?label=Follow&style=social" alt="GitHub Followers"></a>
   <img src="https://komarev.com/ghpvc/?username=sanuka-b&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
