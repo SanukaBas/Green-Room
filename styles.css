@@ -67,6 +67,7 @@ body {
     background-repeat: no-repeat;
     background-position: top left;
     height: 600px;
+    background-size: contain;
 }
 
 .middle-right {
@@ -75,4 +76,5 @@ body {
     background-repeat: no-repeat;
     background-position: bottom right;
     height: 600px;
+    background-size: contain;
 }
