@@ -61,3 +61,18 @@ body {
     line-height: 1.5;
 }
 
+.middle-left {
+    background-image: url(assets/green_room7.jpg);
+    width: 1800px;
+    background-repeat: no-repeat;
+    background-position: top left;
+    height: 600px;
+}
+
+.middle-right {
+    background-image: url(assets/green_room6.jpg);
+    width: 1800px;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    height: 600px;
+}
