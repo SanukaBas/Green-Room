@@ -1,4 +1,4 @@
-# green-room
+# Green Room
 
 <!-- Banner -->
 <p align="center">
