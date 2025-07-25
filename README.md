@@ -33,14 +33,12 @@
 
 ## 📸 Screenshots
 
-> _You can replace the placeholders below with real screenshots from your app!_
-
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Homepage+Preview" width="70%">
+  <img src="assets/screenshots/Screenshot 2025-07-25 221304.png" width="70%">
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Booking+Interface" width="70%">
+  <img src="assets/screenshots/Screenshot 2025-07-25 221402.png" width="70%">
 </p>
 
 ---
