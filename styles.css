@@ -130,21 +130,37 @@ footer {
     
 }
 
+@media screen and (max-width: 744px) {
+
+}
+
 @media screen and (max-width: 576px) {
     .title {
         text-align: center;
         font-size: 72px;
     }
-}
-
-@media screen and (max-width: 430px) {
+    
     .header {
         display: flex;
         flex-direction: column;
     }
 
+    .sub-title {
+        text-align: center;
+    }
+
+    .header-para {
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 430px) {
     .title {
         font-size: 60px;
+    }
+
+    .sub-title {
+        margin-bottom: 0;
     }
 }
 
