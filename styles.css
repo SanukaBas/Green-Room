@@ -113,3 +113,14 @@ body {
     max-width: 1240px;
     margin: 0 auto;
 }
+
+footer {
+    background-color: #3A5741;
+    margin-top: 40px;
+}
+
+.bottom-line {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 40px 0;
+}
