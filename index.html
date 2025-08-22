@@ -89,16 +89,28 @@
         <div class="bottom-line">Copyright © 2025 Green Room : Developed By Sanuka Basnayake</div>
     </footer>
 
-    <button onclick="sayHello()">Click Me!</button>
+    <button onclick="sayHello()">Click Me First!</button>
+
+    <br>
+    <br>
 
     <button onclick="sayName()">Wanna Know my name?</button>
 
-    <button onclick="showSquare()">Wanna Know the square root of 5?</button>
+    <br>
+    <br>
+
+    <input placeholder="Enter a Number" type="number" id="numInput">
+
+    <button onclick="showSquare()">Get Square Root</button>
 
     <br>
 
-    <input placeholder="Enter a Number" type="number">
+    <p id="squareResult"></p>
+    <p id="congratsPara"></p>
 
+    <br>
+    <br>
+    
     <script>
         x = 12;
         y = 13;
@@ -113,18 +125,19 @@
         console.log(x + y + z + a * 2);
 
         function sayHello() {
-            console.log("Hi Bro")
+            console.log("Hi Bro! See my name!")
         }
 
         function sayName() {
-            console.log("Yo! My name is Sanuka Basnayake. Got it?")
+            console.log("Yo! My name is Sanuka Basnayake. Calculate the square root! Now close the Console!")
         }
 
         function showSquare() {
-            let num = 5
+            let num = document.getElementById("numInput").value;
             console.log(num)
             let result = num * num
-            console.log(result)
+            document.getElementById("squareResult").textContent = result
+            document.getElementById("congratsPara").textContent = "Yo! You did it!";
         }
 
     </script>
